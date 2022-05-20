@@ -1,6 +1,7 @@
 
 # <div align = "center"> 🎮I wanna be a GameProgrammer...🎮</div>
-<div align = "center"><img src="https://user-images.githubusercontent.com/63279872/169529249-d1238302-0f16-4a06-ad2e-3864452508f7.png"> </div>
+<div align = "center"><img src="https://user-images.githubusercontent.com/63279872/169529249-d1238302-0f16-4a06-ad2e-3864452508f7.png" width = "60%"  height = "60%">
+</div>
 <br>
 
 ## <div align = "center">:wrench: Development Stacks :wrench: </div>
