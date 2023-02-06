@@ -3,6 +3,13 @@
 <div align = "center"><img src="https://user-images.githubusercontent.com/63279872/169529249-d1238302-0f16-4a06-ad2e-3864452508f7.png" width = "60%"  height = "60%">
 </div>
 <br>
+<br>
+<div align = "center">
+  <a href = "https://www.youtube.com/playlist?list=PLjP_cfO4-g9kbf5_T-UtaKqgQUILsO_5E">
+    Youtube 링크(개발 기록 및 포트폴리오 시연 영상)
+  </a>
+  </div>
+<br>
 
 ## <div align = "center">:wrench: Development Stacks :wrench: </div>
 <div align = "center">
@@ -28,13 +35,7 @@
   2021 인천대학교 컴퓨터공학부 졸업작품 동상 수상
   </a>
 </div>
-<br>
-<div align = "center">
-  <a href = "https://www.youtube.com/playlist?list=PLjP_cfO4-g9kbf5_T-UtaKqgQUILsO_5E">
-    Youtube 링크(개발 기록)
-  </a>
-  </div>
-<br>
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyppp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
