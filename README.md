@@ -1,16 +1,10 @@
 ## <div align = "center">:wrench: Development Stacks :wrench: </div>
 <div align = "center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Csharp-00599C?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity Engine-000000?style=flat-square&logo=unity&logoColor=white"/>
+
   
 </div>
 <br>
 <div align = "center">
-  <a href = "https://www.youtube.com/playlist?list=PLjP_cfO4-g9kbf5_T-UtaKqgQUILsO_5E">
-    Youtube 링크(개발 기록 및 포트폴리오 시연 영상)
-  </a>
   </div>
 <br>
 <br>
