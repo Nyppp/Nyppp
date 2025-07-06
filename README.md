@@ -4,7 +4,7 @@
 
 - 🎮 **2023 ~ 2025**: Game QA Tester  
 
-- 🌱 **2025 ~ Present**: [Learning Back-End Programming](https://github.com/Nyppp/Nyppp/edit/main/README.md#-im-learning-about-) 
+- 🌱 **2025 ~ Present**: [Learning Back-End Programming](https://github.com/Nyppp/Nyppp/tree/main?tab=readme-ov-file#-solving-algorithm-and-data-structure-problems) 
 
 
 ---
