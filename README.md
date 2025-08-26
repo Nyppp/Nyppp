@@ -55,6 +55,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyppp&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsdn216)](https://solved.ac/rlawlsdn216)  
-
 </div>
