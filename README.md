@@ -47,7 +47,7 @@
 
 <div align="center">
 
-### 📌 Back-end development with Java & Spring Boot  
+### 📌 [Back-end development with Java & Spring Boot](https://velog.io/@nyp216/posts)
 ### 📌 [Solving algorithm and data structure problems](https://github.com/Nyppp/Problem_Solving)  
 ### 📌 GitHub collaboration and project management  
 
